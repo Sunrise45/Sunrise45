@@ -1,5 +1,6 @@
 ### Persistent Learner • Passionate Researcher • Avid Gardener
 📖 Currently purusing a degree in computer science
+
 💖 I love learning new things!
 🎨 I've dabbled in C++, Java, HTML, CSS, Javascript, and Python
 🪴 When not studying, I'm tending to my plants or aggressively photographing wildflowers!
