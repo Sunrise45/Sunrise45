@@ -2,7 +2,7 @@
 
 📖 Currently purusing a degree in computer science
 
-💖 I love learning new things!
+💖 Passionate about learning new things!
 
 🎨 I've dabbled in C++, Java, HTML, CSS, Javascript, and Python
 
