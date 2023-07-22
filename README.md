@@ -1,4 +1,8 @@
-### Hi there 👋
+### Persistent Learner • Passionate Researcher • Avid Gardener
+📖 Currently purusing a degree in computer science
+💖 I love learning new things!
+🎨 I've dabbled in C++, Java, HTML, CSS, Javascript, and Python
+🪴 When not studying, I'm tending to my plants or aggressively photographing wildflowers!
 
 <!--
 **Sunrise45/Sunrise45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
